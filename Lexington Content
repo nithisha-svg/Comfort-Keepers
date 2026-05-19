@@ -1,0 +1,272 @@
+<ul aria-label="Why Comfort Keepers" style="list-style:none;margin:0;padding:20px 24px;background:#f3f1ef;border-radius:12px;display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px 24px;">
+	<li style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:500;color:#2b2f33;line-height:1.3;"><span aria-hidden="true" style="flex:0 0 22px;width:22px;height:22px;border-radius:50%;background:#2085b2;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;">✓</span>Licensed and insured</li>
+	<li style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:500;color:#2b2f33;line-height:1.3;"><span aria-hidden="true" style="flex:0 0 22px;width:22px;height:22px;border-radius:50%;background:#9d85be;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;">✓</span>Background-checked caregivers</li>
+	<li style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:500;color:#2b2f33;line-height:1.3;"><span aria-hidden="true" style="flex:0 0 22px;width:22px;height:22px;border-radius:50%;background:#f26532;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;">✓</span>Personalized care plans</li>
+	<li style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:500;color:#2b2f33;line-height:1.3;"><span aria-hidden="true" style="flex:0 0 22px;width:22px;height:22px;border-radius:50%;background:#fcb034;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;">✓</span>24/7 availability</li>
+	<li style="display:flex;align-items:center;gap:10px;font-size:14px;font-weight:500;color:#2b2f33;line-height:1.3;"><span aria-hidden="true" style="flex:0 0 22px;width:22px;height:22px;border-radius:50%;background:#86a31e;color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:13px;font-weight:700;">✓</span>No long-term contracts</li>
+</ul>
+<div style="background:#f3f1ef;border-radius:14px;padding:40px;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:40px;align-items:start;">
+	<br>
+</div>
+<!-- ============ ABOUT US: OWNER STORY ============ -->
+<!-- <div style="padding:48px 0;border-top:1px solid #e7e3dc;">
+  <span style="display:inline-block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.14em;color:#2085b2;margin:0 0 12px;">About us</span>
+  <div aria-hidden="true" style="height:6px;width:80px;border-radius:3px;background:linear-gradient(90deg,#2085b2,#38b4e7);margin:0 0 24px;">
+    <br>
+  </div>
+  <h2 style="font-family:inherit;color:#2085b2;font-size:clamp(26px,3.2vw,34px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 24px;">Who is Comfort Keepers Lexington?</h2>
+  <div style="background:#f3f1ef;border-radius:14px;padding:40px;display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:40px;align-items:start;">
+    <div>
+      <div style="border-radius:12px;overflow:hidden;background:#dcd9d2;box-shadow:0 16px 36px rgba(20,30,50,.12);aspect-ratio:4/3;">
+        <img src="https://res.cloudinary.com/dsrukds5y/image/upload/v1777455992/Arshitha_Hariharan_Chat_ut7qpb.webp" alt="John and April Luethe, owners of Comfort Keepers Lexington, smiling outdoors among flowers" style="width: 100%; height: 100%; object-fit: cover;" class="fr-fil fr-dib">
+      </div>
+      <p style="margin:14px 0 0;font-size:14px;color:#2b2f33;line-height:1.4;"><strong style="color:#2b2f33;font-weight:600;">Edward </strong> &middot; Owners, Comfort Keepers Lexington</p>
+    </div>
+    <div>
+      <p style="margin:0 0 14px;color:#4c555b;"><strong style="color:#2b2f33;font-weight:600;">John Luethe understands what it takes to be in your place right now.</strong></p>
+      <p style="margin:0 0 14px;color:#4c555b;">For the past two years, his family has been navigating the challenges of caring for his mother, who has been dealing with memory issues. His brother took time off work to help. John watched up close what happens when a family is left without the right support &mdash; the exhaustion, the uncertainty, the desperate need for someone trustworthy to step in.</p>
+      <p style="margin:0 0 14px;font-style:italic;color:#f26532;font-weight:500;font-size:15.5px;">That experience didn&#39;t lead him to senior care. It brought him home to it.</p>
+      <p style="margin:0 0 14px;color:#4c555b;">John and his wife April were drawn to Comfort Keepers&reg; not out of fear, but out of genuine belief.</p>
+      <blockquote style="margin:18px 0;padding:6px 0 6px 16px;border-left:3px solid #fcb034;font-style:italic;color:#2b2f33;font-size:16px;line-height:1.55;">&quot;What really resonated with us is that Comfort Keepers is about enhancing lives, giving seniors something to look forward to, helping them stay active, and bringing joy to their daily lives.&quot;</blockquote>
+      <p style="margin:0 0 14px;color:#4c555b;">Today, as owners of Comfort Keepers Lexington, John and April have built a team of caregivers, coordinators, and compassionate humans who believe that growing older should never mean giving up the life you love.</p>
+      <p style="margin:0 0 14px;color:#4c555b;">Every care plan is fully customized to your loved one&#39;s unique needs, schedule, and lifestyle. Whether you need a few hours of help per week or around-the-clock support, we&#39;re here for your family &mdash; in Lexington, Bellevue, Kirkland, Mercer Island, and Issaquah.</p>
+      <p style="margin:18px 0 0;color:#2085b2;font-weight:600;font-size:17px;">We don&#39;t just send caregivers. We send people who genuinely care.</p>
+    </div>
+  </div>
+</div> -->
+<!-- ============ SERVICES ============ -->
+<div style="padding:48px 0;border-top:1px solid #e7e3dc;"><span style="display:inline-block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.14em;color:#f26532;margin:0 0 12px;">Our services</span>
+	<div aria-hidden="true" style="height:6px;width:80px;border-radius:3px;background:linear-gradient(90deg,#f26532,#fcb034);margin:0 0 24px;">
+		<br>
+	</div>
+
+	<h2 style="font-family:inherit;color:#f26532;font-size:clamp(26px,3.2vw,34px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 16px;">Care services we offer in Lexington, KY</h2>
+
+	<p style="margin:0 0 28px;max-width:680px;color:#6f7a82;font-size:16px;">From a few hours of companionship to round-the-clock support, our caregivers tailor each visit to what your loved one needs most &mdash; today, and as needs change.</p>
+	<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;">
+		<a href="https://www.comfortkeepers.com/offices/kentucky/lexington/care-services/in-home-care/" style="display:flex;flex-direction:column;background:#ffffff;border:1px solid #e7e3dc;border-top:4px solid #f26532;border-radius:12px;padding:28px 24px;text-decoration:none;color:#4c555b;"><img src="https://res.cloudinary.com/dyjd06wkr/image/upload/v1779097045/bc_220303_1881_tl_1123_bvdiuy.jpg" style="height: 220px; width: auto; object-fit: contain;" class="fr-fil fr-dib">
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:18px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:0 0 6px;">In-Home Care</h3>
+
+			<p style="margin:0 0 14px;color:#6f7a82;font-size:14.5px;">Help with bathing, dressing, meals, light housekeeping, and companionship &mdash; by the hour or around the clock.</p><span style="font-size:14px;font-weight:600;color:#2085b2;">Learn more &rarr;</span>&nbsp;</a>
+		<a href="https://www.comfortkeepers.com/offices/kentucky/lexington/care-services/specialized-care/alzheimers-and-dementia-care/" style="display:flex;flex-direction:column;background:#ffffff;border:1px solid #e7e3dc;border-top:4px solid #9d85be;border-radius:12px;padding:28px 24px;text-decoration:none;color:#4c555b;"><img src="https://res.cloudinary.com/dyjd06wkr/image/upload/v1779097392/bc_220303_2008_tl_1123_qbq8on.jpg" style="height: 220px; width: auto; object-fit: contain;" class="fr-fil fr-dib">
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:18px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:0 0 6px;">Alzheimer&#39;s &amp; Dementia Care</h3>
+
+			<p style="margin:0 0 14px;color:#6f7a82;font-size:14.5px;">Specialized memory care that focuses on engagement, dignity, and the moments that still bring joy.</p><span style="font-size:14px;font-weight:600;color:#9d85be;">Learn more &rarr;</span>&nbsp;</a>
+		<a href="https://www.comfortkeepers.com/offices/kentucky/lexington/care-services/respite-care/" style="display:flex;flex-direction:column;background:#ffffff;border:1px solid #e7e3dc;border-top:4px solid #f26532;border-radius:12px;padding:28px 24px;text-decoration:none;color:#4c555b;"><img src="https://res.cloudinary.com/dyjd06wkr/image/upload/v1779097579/WEB-9842_1_upnvcc.jpg" style="height: 220px; width: auto; object-fit: contain;" class="fr-fil fr-dib">
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:18px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:0 0 6px;">Respite Care</h3>
+
+			<p style="margin:0 0 14px;color:#6f7a82;font-size:14.5px;">Short-term relief for family caregivers &mdash; a few hours, a weekend, or longer &mdash; so you can rest, recharge, and return.</p><span style="font-size:14px;font-weight:600;color:#f26532;">Learn more &rarr;</span>&nbsp;</a>
+		<a href="https://www.comfortkeepers.com/offices/kentucky/lexington/care-services/veterans-home-care/" style="display:flex;flex-direction:column;background:#ffffff;border:1px solid #e7e3dc;border-top:4px solid #f26532;border-radius:12px;padding:28px 24px;text-decoration:none;color:#4c555b;"><img src="https://res.cloudinary.com/dyjd06wkr/image/upload/v1779097918/bc_220302_1354_tl_1123_sycfkk.jpg" style="height: 220px; width: auto; object-fit: contain;" class="fr-fil fr-dib">
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:18px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:0 0 6px;">Veterans Home Care</h3>
+
+			<p style="margin:0 0 14px;color:#6f7a82;font-size:14.5px;">VA-approved support for veterans and surviving spouses, including help navigating Aid &amp; Attendance benefits.</p><span style="font-size:14px;font-weight:600;color:#2085b2;">Learn more &rarr;</span>&nbsp;</a>
+		<a href="https://www.comfortkeepers.com/offices/kentucky/lexington/care-services/specialized-care/" style="display:flex;flex-direction:column;background:#ffffff;border:1px solid #e7e3dc;border-top:4px solid #f26532;border-radius:12px;padding:28px 24px;text-decoration:none;color:#4c555b;"><img src="https://res.cloudinary.com/dyjd06wkr/image/upload/v1779097918/bc_220302_1354_tl_1123_sycfkk.jpg" style="height: 220px; width: auto; object-fit: contain;" class="fr-fil fr-dib">
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:18px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:0 0 6px;">Specialized Care</h3>
+
+			<p style="margin:0 0 14px;color:#6f7a82;font-size:14.5px;">Post-hospital recovery, end-of-life care, Parkinson&#39;s, and other conditions that need an experienced hand.</p><span style="font-size:14px;font-weight:600;color:#f26532;">Learn more &rarr;</span>&nbsp;</a>
+		<a href="https://www.comfortkeepers.com/offices/kentucky/lexington/care-services/senior-health-and-wellness/" style="display:flex;flex-direction:column;background:#ffffff;border:1px solid #e7e3dc;border-top:4px solid #86a31e;border-radius:12px;padding:28px 24px;text-decoration:none;color:#4c555b;"><img src="https://res.cloudinary.com/dyjd06wkr/image/upload/v1779098024/bc_220302_0116_tl_1123_1_b1efv3.jpg" style="height: 220px; width: auto; object-fit: contain;" class="fr-fil fr-dib">
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:18px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:0 0 6px;">Senior Health &amp; Wellness</h3>
+
+			<p style="margin:0 0 14px;color:#6f7a82;font-size:14.5px;">Nutrition, gentle movement, social connection, and the small daily routines that keep life full and engaged.</p><span style="font-size:14px;font-weight:600;color:#86a31e;">Learn more &rarr;</span>&nbsp;</a></div>
+
+	<p style="margin:28px 0 0;text-align:center;font-size:14.5px;color:#6f7a82;">Not sure where to start? <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/contact/home-care-survey/" style="color:#2085b2;font-weight:500;text-decoration:none;">Take our free care assessment</a> and we&#39;ll help you map out the right level of support.</p>
+</div>
+<!-- ============ HOW IT WORKS ============ -->
+<div style="padding:48px 0;border-top:1px solid #e7e3dc;"><span style="display:inline-block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.14em;color:#2085b2;margin:0 0 12px;">How it works</span>
+	<div aria-hidden="true" style="height:6px;width:80px;border-radius:3px;background:linear-gradient(90deg,#2085b2,#38b4e7);margin:0 0 24px;">
+		<br>
+	</div>
+
+	<h2 style="font-family:inherit;color:#2085b2;font-size:clamp(26px,3.2vw,34px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 16px;">How to get care started &mdash; 3 simple steps</h2>
+
+	<p style="margin:0 0 36px;max-width:640px;color:#6f7a82;">Choosing care for someone you love can feel overwhelming. We&#39;ve made it as simple &mdash; and reassuring &mdash; as possible.</p>
+	<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px;">
+		<div style="background:#ffffff;border:1px solid #e7e3dc;border-left:4px solid #2085b2;border-radius:10px;padding:32px 24px 26px;position:relative;"><span aria-hidden="true" style="position:absolute;top:-18px;left:24px;width:40px;height:40px;background:#2085b2;color:#fff;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:17px;">1</span>
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:19px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:14px 0 8px;">Free Consultation</h3>
+
+			<p style="margin:0;font-size:14.5px;color:#6f7a82;">Talk with a local Lexington care coordinator &mdash; by phone or in your home. No cost, no pressure, no commitment.</p>
+		</div>
+		<div style="background:#ffffff;border:1px solid #e7e3dc;border-left:4px solid #9d85be;border-radius:10px;padding:32px 24px 26px;position:relative;"><span aria-hidden="true" style="position:absolute;top:-18px;left:24px;width:40px;height:40px;background:#9d85be;color:#fff;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:17px;">2</span>
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:19px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:14px 0 8px;">Custom Care Plan</h3>
+
+			<p style="margin:0;font-size:14.5px;color:#6f7a82;">We build a plan around your loved one&#39;s routines, preferences, and health needs &mdash; and the caregiver match that fits.</p>
+		</div>
+		<div style="background:#ffffff;border:1px solid #e7e3dc;border-left:4px solid #f26532;border-radius:10px;padding:32px 24px 26px;position:relative;"><span aria-hidden="true" style="position:absolute;top:-18px;left:24px;width:40px;height:40px;background:#f26532;color:#fff;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font-weight:700;font-size:17px;">3</span>
+
+			<h3 style="font-family:inherit;color:#2b2f33;font-size:19px;font-weight:600;line-height:1.2;letter-spacing:-0.02em;margin:14px 0 8px;">Care Begins</h3>
+
+			<p style="margin:0;font-size:14.5px;color:#6f7a82;">Care can often start within 24&ndash;48 hours. Plans flex as needs change, and there are no long-term contracts.</p>
+		</div></div>
+
+	<p style="margin:32px 0 0;text-align:center;"><a href="https://www.comfortkeepers.com/offices/kentucky/lexington/contact/home-care-survey/" style="display:inline-flex;align-items:center;gap:8px;font-weight:600;font-size:15px;letter-spacing:-0.01em;padding:14px 24px;border-radius:6px;background:#2085b2;color:#ffffff;text-decoration:none;line-height:1;">Start with a Free Consultation&nbsp;<span aria-hidden="true">&rarr;</span></a></p>
+</div>
+<!-- ============ AREAS SERVED ============ -->
+<div style="padding:48px 0;border-top:1px solid #e7e3dc;"><span style="display:inline-block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.14em;color:#86a31e;margin:0 0 12px;">Areas served</span>
+	<div aria-hidden="true" style="height:6px;width:80px;border-radius:3px;background:linear-gradient(90deg,#86a31e,#bed62f);margin:0 0 24px;">
+		<br>
+	</div>
+
+	<h2 style="font-family:inherit;color:#86a31e;font-size:clamp(26px,3.2vw,34px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 16px;">In-home senior care across Lexington</h2>
+
+	<p style="margin:0 0 18px;max-width:640px;color:#6f7a82;">Our caregivers live in the neighborhoods they serve. Tap your city to see local pricing, availability, and team details.</p>
+	<div style="display:flex;flex-wrap:wrap;gap:10px;margin:0 0 18px;"><a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/danville/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Danville</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/nicholasville/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Nicholasville</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/berea/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Berea</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/georgetown/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Georgetown</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/winchester/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Winchester</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/richmond/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Richmond</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/paris/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Paris</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/frankfort/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Frankort</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/lexington/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Lexington</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/wilmore/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Wilmore</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/versailles/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Versailles</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/mt-sterling/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Mt. Sterling</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/midway/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Midway</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/lawrenceburg/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Lawrenceberg</a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/areas-served/area/cynthiana/" style="display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:999px;background:#ffffff;border:1.5px solid #cfc9bf;color:#2b2f33;font-weight:500;font-size:14.5px;text-decoration:none;letter-spacing:-0.01em;">Cynthiana</a></div>
+
+	<p style="margin:0;font-size:14.5px;color:#6f7a82;">Don&#39;t see your neighborhood? Call <a href="tel:+12062371979" style="color:#2085b2;font-weight:500;text-decoration:none;">(859) 224-1124</a> &mdash; we likely cover it.</p>
+</div>
+<!-- ============ WHY COMFORT KEEPERS ============ -->
+<div style="padding:48px 0;border-top:1px solid #e7e3dc;"><span style="display:inline-block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.14em;color:#2085b2;margin:0 0 12px;">Why Comfort Keepers</span>
+	<div aria-hidden="true" style="height:6px;width:80px;border-radius:3px;background:linear-gradient(90deg,#2085b2,#38b4e7);margin:0 0 24px;">
+		<br>
+	</div>
+
+	<h2 style="font-family:inherit;color:#2085b2;font-size:clamp(26px,3.2vw,34px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 24px;">Why Lexington families choose Comfort Keepers</h2>
+	<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:32px;align-items:start;">
+		<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;">
+			<div style="display:flex;gap:14px;padding:18px;background:#ffffff;border:1px solid #e7e3dc;border-radius:10px;">
+				<div>
+
+					<h3 style="font-family:inherit;color:#2b2f33;font-size:15.5px;font-weight:600;letter-spacing:-0.02em;margin:0 0 4px;line-height:1.25;">Background-Checked Caregivers</h3>
+
+					<p style="margin:0;font-size:13.5px;color:#6f7a82;line-height:1.45;">Every caregiver is screened, bonded, insured, and trained before they ever step into your home.</p>
+				</div></div>
+			<div style="display:flex;gap:14px;padding:18px;background:#ffffff;border:1px solid #e7e3dc;border-radius:10px;">
+				<div>
+
+					<h3 style="font-family:inherit;color:#2b2f33;font-size:15.5px;font-weight:600;letter-spacing:-0.02em;margin:0 0 4px;line-height:1.25;">Personalized Care Plans</h3>
+
+					<p style="margin:0;font-size:13.5px;color:#6f7a82;line-height:1.45;">No two seniors are alike. Plans are built around your loved one&#39;s routines, history, and preferences.</p>
+				</div></div>
+			<div style="display:flex;gap:14px;padding:18px;background:#ffffff;border:1px solid #e7e3dc;border-radius:10px;">
+				<div>
+
+					<h3 style="font-family:inherit;color:#2b2f33;font-size:15.5px;font-weight:600;letter-spacing:-0.02em;margin:0 0 4px;line-height:1.25;">24/7 Availability</h3>
+
+					<p style="margin:0;font-size:13.5px;color:#6f7a82;line-height:1.45;">A real person answers, day or night. We&#39;re here for the planned visits and the unexpected ones.</p>
+				</div></div>
+			<div style="display:flex;gap:14px;padding:18px;background:#ffffff;border:1px solid #e7e3dc;border-radius:10px;">
+				<div>
+
+					<h3 style="font-family:inherit;color:#2b2f33;font-size:15.5px;font-weight:600;letter-spacing:-0.02em;margin:0 0 4px;line-height:1.25;">Family Communication</h3>
+
+					<p style="margin:0;font-size:13.5px;color:#6f7a82;line-height:1.45;">You&#39;ll always know how your loved one is doing &mdash; through visit notes, photos, and a dedicated care coordinator.</p>
+				</div></div>
+			<div style="display:flex;gap:14px;padding:18px;background:#ffffff;border:1px solid #e7e3dc;border-radius:10px;">
+				<div>
+
+					<h3 style="font-family:inherit;color:#2b2f33;font-size:15.5px;font-weight:600;letter-spacing:-0.02em;margin:0 0 4px;line-height:1.25;">No Long-Term Contracts</h3>
+
+					<p style="margin:0;font-size:13.5px;color:#6f7a82;line-height:1.45;">Pay for the hours you need. Adjust as life changes. Cancel any time &mdash; no penalties, no fine print.</p>
+				</div></div>
+			<div style="display:flex;gap:14px;padding:18px;background:#ffffff;border:1px solid #e7e3dc;border-radius:10px;">
+				<div>
+
+					<h3 style="font-family:inherit;color:#2b2f33;font-size:15.5px;font-weight:600;letter-spacing:-0.02em;margin:0 0 4px;line-height:1.25;">Award-Winning Care</h3>
+
+					<p style="margin:0;font-size:13.5px;color:#6f7a82;line-height:1.45;">Newsweek&#39;s America&#39;s Best Home Care 2025 and the NBRI Circle of Excellence &mdash; recognized by families and peers.</p>
+				</div></div></div>
+		<aside aria-label="Free consultation" style="background:linear-gradient(160deg,#f26532 0%,#fcb034 100%);color:#ffffff;border-radius:14px;padding:32px 28px;"><span style="text-transform:uppercase;letter-spacing:.14em;font-size:11.5px;font-weight:600;opacity:.9;margin:0 0 8px;display:block;">No cost &middot; No pressure</span>
+
+			<h3 style="font-family:inherit;color:#ffffff;font-size:22px;font-weight:600;letter-spacing:-0.02em;margin:0 0 8px;line-height:1.2;">Talk with a local care coordinator</h3>
+
+			<p style="margin:0 0 18px;color:rgba(255,255,255,.92);font-size:14.5px;">Get answers to your questions, hear what care could look like for your family, and decide what&#39;s right at your pace.</p>
+			<div style="display:flex;flex-direction:column;gap:10px;"><a href="tel:+12062371979" style="display:flex;align-items:center;justify-content:space-between;gap:10px;padding:13px 16px;background:#ffffff;color:#2b2f33;border-radius:8px;font-weight:600;font-size:14.5px;text-decoration:none;"><span>Call (859) 224-1124</span><span style="color:#f26532;font-weight:700;">&rarr;</span></a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/contact/contact-us/" style="display:flex;align-items:center;justify-content:space-between;gap:10px;padding:13px 16px;background:#ffffff;color:#2b2f33;border-radius:8px;font-weight:600;font-size:14.5px;text-decoration:none;"><span>Schedule online</span><span style="color:#f26532;font-weight:700;">&rarr;</span></a> <a href="https://www.comfortkeepers.com/offices/kentucky/lexington/contact/home-care-survey/" style="display:flex;align-items:center;justify-content:space-between;gap:10px;padding:13px 16px;background:#ffffff;color:#2b2f33;border-radius:8px;font-weight:600;font-size:14.5px;text-decoration:none;"><span>Take care assessment</span><span style="color:#f26532;font-weight:700;">&rarr;</span></a></div>
+		</aside>
+	</div></div>
+<!-- ============ TESTIMONIALS ============ -->
+<!--<div style="padding:48px 0;border-top:1px solid #e7e3dc;">
+  <span style="display:inline-block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.14em;color:#fcb034;margin:0 0 12px;">Family stories</span>
+  <div aria-hidden="true" style="height:6px;width:80px;border-radius:3px;background:linear-gradient(90deg,#fcb034,#f26532);margin:0 0 24px;">
+    <br>
+  </div>
+  <h2 style="font-family:inherit;color:#fcb034;font-size:clamp(26px,3.2vw,34px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 24px;">What Lexington families are saying</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;">
+    <figure style="background:#f3f1ef;border-radius:12px;border-top:4px solid #fcb034;padding:28px 26px;margin:0;display:flex;flex-direction:column;">
+      <span aria-hidden="true" style="font-family:Georgia,serif;font-size:48px;line-height:.8;color:#fcb034;opacity:.65;margin:0 0 8px;">&ldquo;</span>
+      <blockquote style="margin:0 0 22px;font-size:15px;line-height:1.6;color:#2b2f33;flex:1;">Our caregiver Maria didn&#39;t just help mom with meals &mdash; she got her laughing again. After dad passed, we didn&#39;t think we&#39;d see that. Comfort Keepers gave us our mom back.</blockquote>
+      <figcaption style="display:flex;align-items:center;gap:12px;border-top:1px solid #e7e3dc;padding-top:16px;">
+        <span aria-hidden="true" style="width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg,#fcb034,#2085b2);color:#ffffff;font-weight:700;font-size:15px;display:inline-flex;align-items:center;justify-content:center;flex:0 0 40px;">JL</span>
+        <span>
+          <span style="display:block;font-size:14.5px;font-weight:600;color:#2b2f33;line-height:1.2;">Jennifer L.</span>
+          <span style="display:block;font-size:13px;color:#6f7a82;margin-top:2px;">Daughter &middot; Bellevue, WA</span>
+        </span>
+      </figcaption>
+    </figure>
+    <figure style="background:#f3f1ef;border-radius:12px;border-top:4px solid #2085b2;padding:28px 26px;margin:0;display:flex;flex-direction:column;">
+      <span aria-hidden="true" style="font-family:Georgia,serif;font-size:48px;line-height:.8;color:#2085b2;opacity:.65;margin:0 0 8px;">&ldquo;</span>
+      <blockquote style="margin:0 0 22px;font-size:15px;line-height:1.6;color:#2b2f33;flex:1;">I needed help fast after dad&#39;s hospital stay. They had a caregiver in the home the next morning. Three months later, dad still asks when &quot;his friend Tom&quot; is coming over.</blockquote>
+      <figcaption style="display:flex;align-items:center;gap:12px;border-top:1px solid #e7e3dc;padding-top:16px;">
+        <span aria-hidden="true" style="width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg,#2085b2,#38b4e7);color:#ffffff;font-weight:700;font-size:15px;display:inline-flex;align-items:center;justify-content:center;flex:0 0 40px;">MR</span>
+        <span>
+          <span style="display:block;font-size:14.5px;font-weight:600;color:#2b2f33;line-height:1.2;">Michael R.</span>
+          <span style="display:block;font-size:13px;color:#6f7a82;margin-top:2px;">Son &middot; Kirkland, WA</span>
+        </span>
+      </figcaption>
+    </figure>
+    <figure style="background:#f3f1ef;border-radius:12px;border-top:4px solid #9d85be;padding:28px 26px;margin:0;display:flex;flex-direction:column;">
+      <span aria-hidden="true" style="font-family:Georgia,serif;font-size:48px;line-height:.8;color:#9d85be;opacity:.65;margin:0 0 8px;">&ldquo;</span>
+      <blockquote style="margin:0 0 22px;font-size:15px;line-height:1.6;color:#2b2f33;flex:1;">The dementia care team understood things I didn&#39;t even know to ask about. They kept dad&#39;s routine, his music, his sense of humor. We finally felt like someone was on our side.</blockquote>
+      <figcaption style="display:flex;align-items:center;gap:12px;border-top:1px solid #e7e3dc;padding-top:16px;">
+        <span aria-hidden="true" style="width:40px;height:40px;border-radius:50%;background:linear-gradient(135deg,#9d85be,#7d63a8);color:#ffffff;font-weight:700;font-size:15px;display:inline-flex;align-items:center;justify-content:center;flex:0 0 40px;">SP</span>
+        <span>
+          <span style="display:block;font-size:14.5px;font-weight:600;color:#2b2f33;line-height:1.2;">Sarah P.</span>
+          <span style="display:block;font-size:13px;color:#6f7a82;margin-top:2px;">Daughter &middot; Mercer Island, WA</span>
+        </span>
+      </figcaption>
+    </figure>
+  </div>
+  <p style="margin:24px 0 0;text-align:center;font-size:14.5px;"><a href="/testimonials" style="color:#2085b2;font-weight:500;text-decoration:none;">Read more family stories &rarr;</a></p>
+</div>-->
+<!-- ============ FAQs (always-open Q/A — no <details> accordion) ============ -->
+<div style="padding:48px 0;border-top:1px solid #e7e3dc;"><span style="display:inline-block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.14em;color:#2085b2;margin:0 0 12px;">Answers</span>
+	<div aria-hidden="true" style="height:6px;width:80px;border-radius:3px;background:linear-gradient(90deg,#2085b2,#38b4e7);margin:0 0 24px;">
+		<br>
+	</div>
+
+	<h2 style="font-family:inherit;color:#2085b2;font-size:clamp(26px,3.2vw,34px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 24px;">Frequently asked questions about senior home care in Lexington</h2>
+	<div style="border:1px solid #e7e3dc;border-radius:10px;background:#ffffff;padding:22px 24px;margin:0 0 12px;">
+
+		<h3 style="font-family:inherit;color:#2b2f33;font-size:17px;font-weight:600;letter-spacing:-0.01em;margin:0 0 10px;line-height:1.4;">Does Comfort Keepers accept Medicare or insurance in Lexington?</h3>
+
+		<p style="margin:0 0 10px;color:#4c555b;font-size:15px;line-height:1.6;">Most non-medical in-home care is <strong style="color:#2b2f33;font-weight:600;">not covered by traditional Medicare</strong>. However, families may use long-term care insurance, VA Aid &amp; Attendance benefits, Medicaid waivers (for those who qualify), or private pay.</p>
+
+		<p style="margin:0;color:#4c555b;font-size:15px;line-height:1.6;">Our team helps you understand which options apply to your situation &mdash; and we work with most long-term care insurance carriers directly so you don&#39;t have to navigate the paperwork alone.</p>
+	</div>
+	<div style="border:1px solid #e7e3dc;border-radius:10px;background:#ffffff;padding:22px 24px;margin:0 0 12px;">
+
+		<h3 style="font-family:inherit;color:#2b2f33;font-size:17px;font-weight:600;letter-spacing:-0.01em;margin:0 0 10px;line-height:1.4;">How quickly can care start in Lexington?</h3>
+
+		<p style="margin:0;color:#4c555b;font-size:15px;line-height:1.6;">For most situations in Lexington, care can begin <strong style="color:#2b2f33;font-weight:600;">within 24 to 48 hours</strong> of your free consultation. Urgent hospital-discharge or post-surgery situations are often started the same day.</p>
+	</div>
+	<div style="border:1px solid #e7e3dc;border-radius:10px;background:#ffffff;padding:22px 24px;margin:0;">
+
+		<h3 style="font-family:inherit;color:#2b2f33;font-size:17px;font-weight:600;letter-spacing:-0.01em;margin:0 0 10px;line-height:1.4;">Can Comfort Keepers provide Alzheimer&#39;s care at home?</h3>
+
+		<p style="margin:0 0 10px;color:#4c555b;font-size:15px;line-height:1.6;">Yes. Our caregivers receive specialized training in Alzheimer&#39;s and dementia care, including techniques for redirection, validation, and engagement that help reduce anxiety and preserve dignity.</p>
+
+		<p style="margin:0;color:#4c555b;font-size:15px;line-height:1.6;">We also support families with respite hours, education, and a consistent caregiver match &mdash; because routine and familiarity matter most for memory care.</p>
+	</div></div>
+<div style="padding:48px 0;border-top:1px solid #e7e3dc;"><span style="display:inline-block;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:0.14em;color:#2085b2;margin:0 0 12px;">Recognition</span>
+	<div aria-hidden="true" style="height:6px;width:80px;border-radius:3px;background:linear-gradient(90deg,#2085b2,#38b4e7);margin:0 0 24px;">
+		<br>
+	</div>
+
+	<h2 style="font-family:inherit;color:#2085b2;font-size:clamp(26px,3.2vw,34px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 8px;">Awards &amp; recognition</h2>
+
+	<p style="margin:0 0 20px;color:#6f7a82;max-width:580px;">Independent, third-party validation of the care our families experience every day.</p>
+	<div style="background:#f3f1ef;border-radius:12px;padding:24px;display:flex;flex-direction:row;align-items:center;justify-content:center;gap:40px;flex-wrap:wrap;"><img src="https://res.cloudinary.com/dsrukds5y/image/upload/v1777709211/Outlook-zoe4b3z1_xhtrbk.jpg" alt="NBRI Circle of Excellence" style="height: 220px; width: auto; object-fit: contain;" class="fr-fil fr-dib"></div></div>
+<!-- ============ FINAL CTA ============ -->
+<div style="padding:32px 0 48px;">
+	<div style="background:linear-gradient(135deg,#f26532 0%,#fcb034 100%);color:#ffffff;border-radius:16px;padding:clamp(36px,5vw,56px) clamp(24px,4vw,48px);text-align:center;">
+
+		<h2 style="font-family:inherit;color:#ffffff;font-size:clamp(28px,3.6vw,40px);font-weight:600;line-height:1.1;letter-spacing:-0.02em;margin:0 0 14px;">Ready to get started? We&#39;re here for your family.</h2>
+
+		<p style="margin:0 auto 28px;color:rgba(255,255,255,.94);font-size:17px;max-width:620px;line-height:1.5;">Whether you&#39;re planning ahead or need help today, a real Lexington care coordinator is one call away. No pressure, no obligation &mdash; just answers, and a path forward that fits your family.</p>
+		<div style="display:inline-flex;flex-wrap:wrap;gap:12px;justify-content:center;"><a href="tel:+12062371979" style="display:inline-flex;align-items:center;gap:8px;font-weight:600;font-size:15px;letter-spacing:-0.01em;padding:14px 24px;border-radius:6px;background:#ffffff;color:#f26532;text-decoration:none;line-height:1;">Call (859) 224-1124</a> <a href="https://www.comfortkeepers.com/offices/texas/Lexington/contact/home-care-survey/" style="display:inline-flex;align-items:center;gap:8px;font-weight:600;font-size:15px;letter-spacing:-0.01em;padding:14px 24px;border-radius:6px;background:transparent;color:#ffffff;border:1.5px solid #ffffff;text-decoration:none;line-height:1;">Take the Home Care Survey&nbsp;<span aria-hidden="true">&rarr;</span></a></div></div></div>
